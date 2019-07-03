@@ -1,0 +1,66 @@
+c:\users\willian\documents\visual studio 2013\Projects\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csprojResolveAssemblyReference.cache
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmBase.resources
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPrincipal.resources
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.Cache
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmTorre.resources
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmCliente.resources
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmLocalizar.resources
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPlano.resources
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmRadio.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csprojResolveAssemblyReference.cache
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmBase.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmCliente.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmLocalizar.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPlano.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPrincipal.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmRadio.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmTorre.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\Willian\Documents\Unifenas 4 periodo\Atividade Integradora\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmBase.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmCliente.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmLocalizar.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPlano.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPrincipal.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmRadio.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmTorre.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.Cache
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmRelatorio.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmExportar.resources
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmImportar.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csprojResolveAssemblyReference.cache
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmBase.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmCliente.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmExportar.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmImportar.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmLocalizar.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPlano.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmPrincipal.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmRadio.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmRelatorio.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.FrmTorre.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\luiza\Desktop\Computação\Quarto Período\Linguagens e Técnicas de Programação II\Trabalhos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.Cache
